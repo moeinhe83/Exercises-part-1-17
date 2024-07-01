@@ -4,7 +4,7 @@ Question Number ===> 17
 
 Programming Language ===> Python
 
-Program description ===> 17th Exercise
+Program Description ===> 17th Exercise
 
 Example ===> Write a program that merges the following two dictionaries together
 
