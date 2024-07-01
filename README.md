@@ -6,7 +6,7 @@ Programming Language ===> Python
 
 Program Description ===> 17th Exercise
 
-Example ===> Write a program that merges the following two dictionaries together
+Example ===> Write A Program that merges the following two dictionaries together
 
 A => d1 = {'name':'Hamid', 'age':25}
 
